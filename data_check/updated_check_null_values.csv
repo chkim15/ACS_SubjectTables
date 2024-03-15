@@ -1,10 +1,10 @@
 Table,ID,Null Values,type,,,,
-S0101,S0101_C01_035M,6916,float,,Percent," 7,618 ",
-S0101,S0101_C01_036M,6916,float,,Estimate," 6,140 ",
-S0101,S0101_C02_031E,6916,int,,Total," 13,758 ","(including both E,M)"
+S0101,S0101_C01_035M,6916,float,,Percent,"7,618",
+S0101,S0101_C01_036M,6916,float,,Estimate,"6,140",
+S0101,S0101_C02_031E,6916,int,,Total,"13,758","(including both E,M)"
 S0101,S0101_C02_031M,6916,int,,,,* 'E' includes both 'Percent' and 'Estimate' 
 S0101,S0101_C02_032E,6916,int,,,,* 'M' means margin of error
-S0101,S0101_C02_032M,6916,int,,Max null values," 6,916 ",
+S0101,S0101_C02_032M,6916,int,,Max null values,"6,916",
 S0101,S0101_C02_033E,6916,int,,,,
 S0101,S0101_C02_033M,6916,int,,,,
 S0101,S0101_C02_034E,6916,int,,* This is a representation of merged data for 866 California Zipcodes (2015-2022),,
