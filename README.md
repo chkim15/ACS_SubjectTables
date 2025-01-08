@@ -10,12 +10,6 @@ This pipeline processes multiple years of ACS Subject Tables data through four m
 3. Label merging
 4. Data merging and filtering
 
-## Prerequisites
-
-- Python 3.x
-- Jupyter Notebook
-- Required packages: pandas, numpy, requests
-
 ## Pipeline Stages
 
 ### 1. Data Collection (`get_raw_data_1.ipynb`)
